@@ -92,6 +92,7 @@ a:hover {
     font-weight: bold;
 
 }
+
 .menu :hover {
     color: black;
 }
@@ -150,6 +151,7 @@ a:hover {
     opacity: 0.7;
     padding: 8px;
 }
+
 .center {
     margin: auto;
     width: 60%;
@@ -175,3 +177,4 @@ a:hover {
 #footer a:hover {
     color: white;
 }
+/*prueba*/
