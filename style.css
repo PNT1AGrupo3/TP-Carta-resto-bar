@@ -1,4 +1,4 @@
-body {
+ody {
     background: rgb(0, 0, 0);
     color: green;
     font-size: 25px;
@@ -113,13 +113,13 @@ a:hover {
     background-color: rgb(243, 180, 151);
     opacity: 0.9;
     padding: 8px;
-    margin-left: 90px;
-    margin-right: 90px;
+    margin-left: 110px;
+    margin-right: 110px;
 }
 
 .plato {
+    text-align: center;
     color: black;
-    font-weight: bold
 }
 
 .plato h2 {
@@ -127,9 +127,11 @@ a:hover {
 }
 .plato h4{
     font-family: Courier;
-    color: rgb(0, 0, 0);
-    font-weight: bolder;
-    font-size: 15px;
+    font-weight: bold;
+}
+.plato h3{
+    font-family: Courier;
+    font-weight: bold;
 }
 .plato h5 {
     font-size: 25px;
@@ -138,8 +140,7 @@ a:hover {
 }
 
 .plato p {
-    text-align: left;
-    font-size: 20px;
+    text-align: center;
     margin-left: 40px;
 }
 
@@ -166,11 +167,10 @@ a:hover {
 }
 
 #footer {
-
+    text-align: center;
+    align-items: center;
     padding: 30px;
-
     background: rgb(30, 30, 30);
-
     color: lightgrey;
 
 }
@@ -183,4 +183,11 @@ a:hover {
 #footer a:hover {
     color: white;
 }
-/*prueba*/
+
+.img-tamaño {
+    border: white 2px solid;
+    border-radius: 10px;
+    text-align: center;
+    width: 170px;
+    height: 130px;
+}
