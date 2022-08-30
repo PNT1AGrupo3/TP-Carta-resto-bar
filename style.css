@@ -19,6 +19,7 @@ h2 {
     font-size: 10px;
 }
 
+
 a {
     color: yellow;
 }
@@ -124,7 +125,12 @@ a:hover {
 .plato h2 {
     text-align: center;
 }
-
+.plato h4{
+    font-family: Courier;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    font-size: 15px;
+}
 .plato h5 {
     font-size: 25px;
     text-align: left;
